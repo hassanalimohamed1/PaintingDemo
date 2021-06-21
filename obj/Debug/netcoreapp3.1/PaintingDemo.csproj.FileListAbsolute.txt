@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/bin/Debug/netcoreapp3.1/PaintingDemo.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/bin/Debug/netcoreapp3.1/PaintingDemo.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/bin/Debug/netcoreapp3.1/PaintingDemo.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/bin/Debug/netcoreapp3.1/PaintingDemo.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/bin/Debug/netcoreapp3.1/PaintingDemo.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/obj/Debug/netcoreapp3.1/PaintingDemo.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/obj/Debug/netcoreapp3.1/PaintingDemo.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/obj/Debug/netcoreapp3.1/PaintingDemo.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/obj/Debug/netcoreapp3.1/PaintingDemo.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/obj/Debug/netcoreapp3.1/PaintingDemo.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/obj/Debug/netcoreapp3.1/PaintingDemo.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/PaintingDemo/obj/Debug/netcoreapp3.1/PaintingDemo.genruntimeconfig.cache
